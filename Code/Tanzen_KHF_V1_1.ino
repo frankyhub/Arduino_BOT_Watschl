@@ -199,7 +199,7 @@ const int array_dance6[num_dance6][4] =
     {0,0,0,0},
 };
 
-//Programmauswahl - Nur EIN Programm aktieren!!!
+//Programmauswahl - Nur EIN Programm aktivieren!!!
 //#define INSTALL
 //#define CALIBRATION
 #define RUN
