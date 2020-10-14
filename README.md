@@ -1,5 +1,8 @@
 # Arduino_BOT Joe Watschl
 
-![image](https://github.com/frankyhub/png/blob/master/under_constuction2.jpg)
 
-no ned ganz fertig ;-)
+https://github.com/frankyhub/Arduino_BOT_Watschl/blob/main/Bauanleitung/Bauanleitung%20Jo%20Watschl.pdf
+
+![image](https://github.com/frankyhub/png/blob/master/Watschl.JPG)
+
+
